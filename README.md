@@ -34,20 +34,20 @@ $ git submodule update --init --recursive
 $ make        
 $ sudo make install      
 '''        
-![YOSYS Screenshots](images/YOSYS.png)     
+![YOSYS Screenshots](images/YOSYS.IMG.png)     
 
 #### <ins>*Iverilog*</ins>
 bash      
 $ sudo apt-get update       
 $ sudo apt-get install iverilog      
 
-![IVERILOG Screeenshots](images/IVERILOG.png)      
+![IVERILOG Screeenshots](images/IVERILOG.IMG.png)      
 
 #### <ins>*gtkwave*</ins>     
 bash      
 $ sudo apt-get update      
 $ sudo apt install gtkwave       
 
-![GTKWAVE Screenshots](images/GTKWAVE.png)          
+![GTKWAVE Screenshots](images/Gtkwave.img.png)          
 
 
