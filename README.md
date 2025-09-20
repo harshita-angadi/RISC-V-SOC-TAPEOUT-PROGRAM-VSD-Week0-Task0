@@ -41,7 +41,7 @@ bash
 $ sudo apt-get update       
 $ sudo apt-get install iverilog      
 
-![Alt Text](images/IVERILOG.IMG)     
+![Alt Text](images/IVERILOG.IMG)      
 
 #### <ins>*gtkwave*</ins>     
 bash      
